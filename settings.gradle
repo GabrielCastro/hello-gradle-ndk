@@ -1,1 +1,2 @@
 include ':samples:hello-jni'
+include ':samples:bitmap-plasma'
